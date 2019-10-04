@@ -2,16 +2,20 @@
 
 const Bell = require("@hapi/bell");
 const Hapi = require("@hapi/hapi");
+const Cookie = require("@hapi/cookie");
 
 const internals = {};
 
 internals.start = async function() {
   const server = Hapi.server({ port: 3000 });
-  await server.register(Bell);
+  await server.register([Bell, Cookie]);
 
-  // Make sure to set a "Callback URL" and
-  // check the "Allow this application to be used to Sign in with Twitter"
-  // on the "Settings" tab in your Twitter application
+  //Setup the session strategy
+  // server.auth.strategy("session", "cookie", {
+  //   password: "cookie_encryption_password_secure", //Use something more secure in production
+  //   redirectTo: "/auth/twitter", //If there is no session, redirect here
+  //   isSecure: false //Should be set to true (which is the default) in production
+  // });
 
   server.auth.strategy("twitter", "bell", {
     provider: "twitter",
@@ -30,24 +34,38 @@ internals.start = async function() {
         mode: "try"
       },
       handler: function(request, h) {
-        debugger;
         if (!request.auth.isAuthenticated) {
           return `Authentication failed due to: ${request.auth.error.message}`;
         }
+        // const profile = request.auth.credentials.profile;
+
+        // request.cookieAuth.set({
+        //   twitterId: profile.id,
+        //   username: profile.username,
+        //   displayName: profile.displayName
+        // });
+
+        // return reply.redirect("/");
         return "<pre>" + JSON.stringify(request.auth.credentials, null, 4) + "</pre>";
       }
     }
   });
 
-  // server.route({
-  //   method: "GET",
-  //   path: "/",
-  //   options: {
-  //     handler: function(request, h) {
-  //       return "Hello world!";
-  //     }
-  //   }
-  // });
+  server.route({
+    method: "GET",
+    path: "/",
+    config: {
+      // auth: {
+      //   strategy: "session", //<-- require a session for this, so we have access to the twitter profile
+      //   mode: "try"
+      // },
+      handler: function(request, reply) {
+        // Return a message using the information from the session
+        // return reply("Hello, " + request.auth.credentials.displayName + "!");
+        return reply("Congrats you are logged in to Twitter!");
+      }
+    }
+  });
 
   await server.start();
   console.log("Server started at:", server.info.uri);
