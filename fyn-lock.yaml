@@ -1,0 +1,439 @@
+'@hapi/accept':
+ _latest: 3.2.3
+ _:
+  3.x.x: 3.2.3
+ 3.2.3:
+  $: sha512-qEzsOJkCAJZxwj3iF83bSG9Lxy8Bpbrt8mRLNdvSALT6vlU2cYh6ZEHKEZPy4h/Mo31Su3j0rJgFF91+W1RWDQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/accept/-/accept-3.2.3.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/address':
+ _latest: 2.1.2
+ _:
+  '2.x.x,^2.1.2': 2.1.2
+ 2.1.2:
+  $: sha512-O4QDrx+JoGKZc6aN64L04vqa7e41tIiLU+OvKdcYaEMP97UttL0f9GIi9/0A4WAMx0uBd6SidDIhktZhgOcN8Q==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/address/-/address-2.1.2.tgz'
+'@hapi/ammo':
+ _latest: 3.1.1
+ _:
+  3.x.x: 3.1.1
+ 3.1.1:
+  $: sha512-NYFK27VSPGyQ/KmOQedpQH4PSjE7awLntepX68vrYtRvuJO21W1kX0bK2p3C+6ltUwtCQSvmNT8a4uMVAysC6Q==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/ammo/-/ammo-3.1.1.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+'@hapi/b64':
+ _latest: 4.2.1
+ _:
+  4.x.x: 4.2.1
+ 4.2.1:
+  $: sha512-zqHpQuH5CBMw6hADzKfU/IGNrxq1Q+/wTYV+OiZRQN9F3tMyk+9BUMeBvFRMamduuqL8iSp62QAnJ+7ATiYLWA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/b64/-/b64-4.2.1.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+'@hapi/bell':
+ _latest: 11.1.0
+ _:
+  ^11.1.0: 11.1.0
+ 11.1.0:
+  top: 1
+  $: sha512-tfW/OlLZFlaemMcmxzbQjMjy56eveg5XCfHoY4Zi9ErDCqp52d7ek2hiFIgPmTIbxI7Vfp3RS+RQ6e5T8dOorA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/bell/-/bell-11.1.0.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/bounce': 1.x.x
+   '@hapi/cryptiles': 4.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 16.x.x
+   '@hapi/wreck': 15.x.x
+'@hapi/boom':
+ _latest: 8.0.1
+ _:
+  7.x.x: 7.4.11
+ 7.4.11:
+  $: sha512-VSU/Cnj1DXouukYxxkes4nNJonCnlogHvIff1v1RVoN4xzkKhMXX+GRmb3NyH1iar10I9WFPDv2JPwfH3GaV0A==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/boom/-/boom-7.4.11.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+'@hapi/bounce':
+ _latest: 1.3.1
+ _:
+  1.x.x: 1.3.1
+ 1.3.1:
+  $: sha512-/ecFQTRBom2MEbjMHvKKE6FZ/e1gYK72CeUIFzz++dKK1kYJ0KbRJ72mXroWoTT2hIv+8H0ua/eOkO0+hRdHcw==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/bounce/-/bounce-1.3.1.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/bourne':
+ _latest: 1.3.2
+ _:
+  1.x.x: 1.3.2
+ 1.3.2:
+  $: sha512-1dVNHT76Uu5N3eJNTYcvxee+jzX4Z9lfciqRRHCU27ihbUcYi+iSc2iml5Ke1LXe1SyJCLA0+14Jh4tXJgOppA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/bourne/-/bourne-1.3.2.tgz'
+'@hapi/call':
+ _latest: 5.1.1
+ _:
+  5.x.x: 5.1.1
+ 5.1.1:
+  $: sha512-M6fC+9+K/ZB4hIdVQ8i0kc/6J5PWlW3PEWYKAAZpw0sk+28LiRTSF8BjOWwmiIjZWWs42AnEIiFJA0YrvcDnlw==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/call/-/call-5.1.1.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/catbox':
+ _latest: 10.2.3
+ _:
+  10.x.x: 10.2.3
+ 10.2.3:
+  $: sha512-kN9hXO4NYyOHW09CXiuj5qW1syc/0XeVOBsNNk0Tz89wWNQE5h21WF+VsfAw3uFR8swn/Wj3YEVBnWqo82m/JQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/catbox/-/catbox-10.2.3.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 16.x.x
+   '@hapi/podium': 3.x.x
+'@hapi/catbox-memory':
+ _latest: 4.1.1
+ _:
+  4.x.x: 4.1.1
+ 4.1.1:
+  $: sha512-T6Hdy8DExzG0jY7C8yYWZB4XHfc0v+p1EGkwxl2HoaPYAmW7I3E59M/IvmSVpis8RPcIoBp41ZpO2aZPBpM2Ww==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/catbox-memory/-/catbox-memory-4.1.1.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/content':
+ _latest: 4.1.0
+ _:
+  4.x.x: 4.1.0
+ 4.1.0:
+  $: sha512-hv2Czsl49hnWDEfRZOFow/BmYbKyfEknmk3k83gOp6moFn5ceHB4xVcna8OwsGfy8dxO81lhpPy+JgQEaU4SWw==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/content/-/content-4.1.0.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+'@hapi/cryptiles':
+ _latest: 4.2.1
+ _:
+  4.x.x: 4.2.1
+ 4.2.1:
+  $: sha512-XoqgKsHK0l/VpqPs+tr6j6vE+VQ3+2bkF2stvttmc7xAOf1oSAwHcJ0tlp/6MxMysktt1IEY0Csy3khKaP9/uQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/cryptiles/-/cryptiles-4.2.1.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+'@hapi/file':
+ _latest: 1.0.0
+ _:
+  1.x.x: 1.0.0
+ 1.0.0:
+  $: sha512-Bsfp/+1Gyf70eGtnIgmScvrH8sSypO3TcK3Zf0QdHnzn/ACnAkI6KLtGACmNRPEzzIy+W7aJX5E+1fc9GwIABQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/file/-/file-1.0.0.tgz'
+'@hapi/formula':
+ _latest: 1.2.0
+ _:
+  ^1.2.0: 1.2.0
+ 1.2.0:
+  $: sha512-UFbtbGPjstz0eWHb+ga/GM3Z9EzqKXFWIbSOFURU0A/Gku0Bky4bCk9/h//K2Xr3IrCfjFNhMm4jyZ5dbCewGA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/formula/-/formula-1.2.0.tgz'
+'@hapi/hapi':
+ _latest: 18.4.0
+ _:
+  ^18.4.0: 18.4.0
+ 18.4.0:
+  top: 1
+  $: sha512-uk9zqknRLcNVQKgrPURm85DqkdroWP8eDRekh/IPoKvC4VjdZSn6EH2eUriOwyud/CldeBS3HDIJ/PtRj3VxDQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/hapi/-/hapi-18.4.0.tgz'
+  dependencies:
+   '@hapi/accept': 3.x.x
+   '@hapi/ammo': 3.x.x
+   '@hapi/boom': 7.x.x
+   '@hapi/bounce': 1.x.x
+   '@hapi/call': 5.x.x
+   '@hapi/catbox': 10.x.x
+   '@hapi/catbox-memory': 4.x.x
+   '@hapi/heavy': 6.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 15.x.x
+   '@hapi/mimos': 4.x.x
+   '@hapi/podium': 3.x.x
+   '@hapi/shot': 4.x.x
+   '@hapi/somever': 2.x.x
+   '@hapi/statehood': 6.x.x
+   '@hapi/subtext': 6.x.x
+   '@hapi/teamwork': 3.x.x
+   '@hapi/topo': 3.x.x
+'@hapi/heavy':
+ _latest: 6.2.2
+ _:
+  6.x.x: 6.2.2
+ 6.2.2:
+  $: sha512-PY1dCCO6dsze7RlafIRhTaGeyTgVe49A/lSkxbhKGjQ7x46o/OFf7hLiRqTCDh3atcEKf6362EaB3+kTUbCsVA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/heavy/-/heavy-6.2.2.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 16.x.x
+'@hapi/hoek':
+ _latest: 8.2.5
+ _:
+  '8.x.x,^8.2.4': 8.2.5
+ 8.2.5:
+  $: sha512-rmGFzok1zR3xZKd5m3ihWdqafXFxvPHoQ/78+AG5URKbEbJiwBBfRgzbu+07W5f3+07JRshw6QqGbVmCp8ntig==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/hoek/-/hoek-8.2.5.tgz'
+'@hapi/iron':
+ _latest: 5.1.4
+ _:
+  5.x.x: 5.1.4
+ 5.1.4:
+  $: sha512-+ElC+OCiwWLjlJBmm8ZEWjlfzTMQTdgPnU/TsoU5QsktspIWmWi9IU4kU83nH+X/SSya8TP8h8P11Wr5L7dkQQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/iron/-/iron-5.1.4.tgz'
+  dependencies:
+   '@hapi/b64': 4.x.x
+   '@hapi/boom': 7.x.x
+   '@hapi/bourne': 1.x.x
+   '@hapi/cryptiles': 4.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/joi':
+ _latest: 16.1.5
+ _:
+  15.x.x: 15.1.1
+  16.x.x: 16.1.5
+ 16.1.5:
+  $: sha512-FnVe0t1YQbF0H4fhFM6qBL7lIP4wdVHdFFBkloxgCkpKKdaCB6Z2UaNI0UalaDRHbRM9BvfTfyUKJg7tGtBSXg==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/joi/-/joi-16.1.5.tgz'
+  dependencies:
+   '@hapi/address': ^2.1.2
+   '@hapi/formula': ^1.2.0
+   '@hapi/hoek': ^8.2.4
+   '@hapi/pinpoint': ^1.0.2
+   '@hapi/topo': ^3.1.3
+ 15.1.1:
+  $: sha512-entf8ZMOK8sc+8YfeOlM8pCfg3b5+WZIKBfUaaJT8UsjAAPjartzxIYm3TIbjvA4u+u++KbcXD38k682nVHDAQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/joi/-/joi-15.1.1.tgz'
+  dependencies:
+   '@hapi/address': 2.x.x
+   '@hapi/bourne': 1.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/topo': 3.x.x
+'@hapi/mimos':
+ _latest: 4.1.1
+ _:
+  4.x.x: 4.1.1
+ 4.1.1:
+  $: sha512-CXoi/zfcTWfKYX756eEea8rXJRIb9sR4d7VwyAH9d3BkDyNgAesZxvqIdm55npQc6S9mU3FExinMAQVlIkz0eA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/mimos/-/mimos-4.1.1.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+   mime-db: 1.x.x
+'@hapi/nigel':
+ _latest: 3.1.1
+ _:
+  3.x.x: 3.1.1
+ 3.1.1:
+  $: sha512-R9YWx4S8yu0gcCBrMUDCiEFm1SQT895dMlYoeNBp8I6YhF1BFF1iYPueKA2Kkp9BvyHdjmvrxCOns7GMmpl+Fw==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/nigel/-/nigel-3.1.1.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+   '@hapi/vise': 3.x.x
+'@hapi/pez':
+ _latest: 4.1.1
+ _:
+  4.x.x: 4.1.1
+ 4.1.1:
+  $: sha512-TUa2C7Xk6J69HWrm+Ad+O6dFvdVAG0BiFUYaRsmkdWjFIfwHBCaOI1dWT/juNukSb39Lj6/mDVyjN+H4nKB3xg==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/pez/-/pez-4.1.1.tgz'
+  dependencies:
+   '@hapi/b64': 4.x.x
+   '@hapi/boom': 7.x.x
+   '@hapi/content': 4.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/nigel': 3.x.x
+'@hapi/pinpoint':
+ _latest: 1.0.2
+ _:
+  ^1.0.2: 1.0.2
+ 1.0.2:
+  $: sha512-dtXC/WkZBfC5vxscazuiJ6iq4j9oNx1SHknmIr8hofarpKUZKmlUVYVIhNVzIEgK5Wrc4GMHL5lZtt1uS2flmQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/pinpoint/-/pinpoint-1.0.2.tgz'
+'@hapi/podium':
+ _latest: 3.4.2
+ _:
+  3.x.x: 3.4.2
+ 3.4.2:
+  $: sha512-g9zlAkRL2uDlnEo64xzEhFLblf4fdL5Z6evAO0wJhdxEvokI/+6ryv7k6uhND481LiLzQz8qTtPYMuhH1hichw==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/podium/-/podium-3.4.2.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 16.x.x
+'@hapi/shot':
+ _latest: 4.1.2
+ _:
+  4.x.x: 4.1.2
+ 4.1.2:
+  $: sha512-6LeHLjvsq/bQ0R+fhEyr7mqExRGguNTrxFZf5DyKe3CK6pNabiGgYO4JVFaRrLZ3JyuhkS0fo8iiRE2Ql2oA/A==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/shot/-/shot-4.1.2.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+   '@hapi/joi': 16.x.x
+'@hapi/somever':
+ _latest: 2.1.1
+ _:
+  2.x.x: 2.1.1
+ 2.1.1:
+  $: sha512-cic5Sto4KGd9B0oQSdKTokju+rYhCbdpzbMb0EBnrH5Oc1z048hY8PaZ1lx2vBD7I/XIfTQVQetBH57fU51XRA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/somever/-/somever-2.1.1.tgz'
+  dependencies:
+   '@hapi/bounce': 1.x.x
+   '@hapi/hoek': 8.x.x
+'@hapi/statehood':
+ _latest: 6.1.2
+ _:
+  6.x.x: 6.1.2
+ 6.1.2:
+  $: sha512-pYXw1x6npz/UfmtcpUhuMvdK5kuOGTKcJNfLqdNptzietK2UZH5RzNJSlv5bDHeSmordFM3kGItcuQWX2lj2nQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/statehood/-/statehood-6.1.2.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/bounce': 1.x.x
+   '@hapi/bourne': 1.x.x
+   '@hapi/cryptiles': 4.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/iron': 5.x.x
+   '@hapi/joi': 16.x.x
+'@hapi/subtext':
+ _latest: 6.1.2
+ _:
+  6.x.x: 6.1.2
+ 6.1.2:
+  $: sha512-G1kqD1E2QdxpvpL26WieIyo3z0qCa/sAGSa2TJI/PYPWCR9rL0rqFvhWY774xPZ4uK1PV3TIaJcx8AruAvxclg==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/subtext/-/subtext-6.1.2.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/bourne': 1.x.x
+   '@hapi/content': 4.x.x
+   '@hapi/file': 1.x.x
+   '@hapi/hoek': 8.x.x
+   '@hapi/pez': 4.x.x
+   '@hapi/wreck': 15.x.x
+'@hapi/teamwork':
+ _latest: 3.3.1
+ _:
+  3.x.x: 3.3.1
+ 3.3.1:
+  $: sha512-61tiqWCYvMKP7fCTXy0M4VE6uNIwA0qvgFoiDubgfj7uqJ0fdHJFQNnVPGrxhLWlwz0uBPWrQlBH7r8y9vFITQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/teamwork/-/teamwork-3.3.1.tgz'
+'@hapi/topo':
+ _latest: 3.1.4
+ _:
+  '3.x.x,^3.1.3': 3.1.4
+ 3.1.4:
+  $: sha512-aVWQTOI9wBD6zawmOr6f+tdEIxQC8JXfQVLTjgGe8YEStAWGn/GNNVTobKJhbWKveQj2RyYF3oYbO9SC8/eOCA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/topo/-/topo-3.1.4.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+'@hapi/vise':
+ _latest: 3.1.1
+ _:
+  3.x.x: 3.1.1
+ 3.1.1:
+  $: sha512-OXarbiCSadvtg+bSdVPqu31Z1JoBL+FwNYz3cYoBKQ5xq1/Cr4A3IkGpAZbAuxU5y4NL5pZFZG3d2a3ZGm/dOQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/vise/-/vise-3.1.1.tgz'
+  dependencies:
+   '@hapi/hoek': 8.x.x
+'@hapi/wreck':
+ _latest: 15.1.0
+ _:
+  15.x.x: 15.1.0
+ 15.1.0:
+  $: sha512-tQczYRTTeYBmvhsek/D49En/5khcShaBEmzrAaDjMrFXKJRuF8xA8+tlq1ETLBFwGd6Do6g2OC74rt11kzawzg==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/@hapi/wreck/-/wreck-15.1.0.tgz'
+  dependencies:
+   '@hapi/boom': 7.x.x
+   '@hapi/bourne': 1.x.x
+   '@hapi/hoek': 8.x.x
+boom:
+ _latest: 7.3.0
+ _:
+  '3.x.x,^3.2.2': 3.2.2
+ 3.2.2:
+  top: 1
+  $: sha1-DwzF0ErcUAO4x9cfQsynJx/vDng=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/boom/-/boom-3.2.2.tgz'
+  dependencies:
+   hoek: 4.x.x
+  deprecated: 'This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).'
+hapi-auth-cookie:
+ _latest: 10.0.0
+ _:
+  ^6.1.1: 6.1.1
+ 6.1.1:
+  top: 1
+  $: sha1-kn2znkNJFtgauHDUGB1w1T50VXI=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/hapi-auth-cookie/-/hapi-auth-cookie-6.1.1.tgz'
+  dependencies:
+   boom: 3.x.x
+   hoek: 3.x.x
+   joi: 7.x.x
+  peerDependencies:
+   hapi: '>=11.x.x'
+  deprecated: 'This module has moved and is now available at @hapi/cookie. Please update your dependencies as this version is no longer maintained an may contain bugs and security issues.'
+hoek:
+ _latest: 6.1.3
+ _:
+  3.x.x: 3.0.4
+  4.x.x: 4.2.1
+ 4.2.1:
+  $: sha512-QLg82fGkfnJ/4iy1xZ81/9SIJiq1NGFUMGs6ParyjBZr6jW2Ufj/snDqTHixNlHdPNwN2RLVD0Pi3igeK9+JfA==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/hoek/-/hoek-4.2.1.tgz'
+  deprecated: 'This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).'
+ 3.0.4:
+  $: sha1-Jorf9mu2aVxptHiaiLHghHw/MSM=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/hoek/-/hoek-3.0.4.tgz'
+  deprecated: 'This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).'
+isemail:
+ _latest: 3.2.0
+ _:
+  2.x.x: 2.2.1
+ 2.2.1:
+  $: sha1-A1PT2aYpUQgMJiwqoKQrjqjp4qY=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/isemail/-/isemail-2.2.1.tgz'
+joi:
+ _latest: 14.3.1
+ _:
+  7.x.x: 7.3.0
+ 7.3.0:
+  $: sha1-TZyfGBgwRECDZltbbNW4ymd5pek=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/joi/-/joi-7.3.0.tgz'
+  dependencies:
+   hoek: 3.x.x
+   topo: 2.x.x
+   isemail: 2.x.x
+   moment: 2.x.x
+  deprecated: 'This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).'
+mime-db:
+ _latest: 1.42.0
+ _:
+  1.x.x: 1.42.0
+ 1.42.0:
+  $: sha512-UbfJCR4UAVRNgMpfImz05smAXK7+c+ZntjaA26ANtkXLlOe947Aag5zdIcKQULAiF9Cq4WxBi9jUs5zkA84bYQ==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/mime-db/-/mime-db-1.42.0.tgz'
+moment:
+ _latest: 2.24.0
+ _:
+  2.x.x: 2.24.0
+ 2.24.0:
+  $: sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  _: 'https://repository.cache.walmart.com/content/groups/npm/moment/-/moment-2.24.0.tgz'
+topo:
+ _latest: 3.0.3
+ _:
+  2.x.x: 2.0.2
+ 2.0.2:
+  $: sha1-zVYVdSU5BXwNwEkaYhw7xvvh0YI=
+  _: 'https://repository.cache.walmart.com/content/groups/npm/topo/-/topo-2.0.2.tgz'
+  dependencies:
+   hoek: 4.x.x
+  deprecated: 'This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).'
