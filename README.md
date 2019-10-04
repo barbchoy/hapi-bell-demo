@@ -10,3 +10,4 @@ You should have a current version of node installed. You also need a `Consumer K
 npm install
 node server.js
 ```
+# hapi-bell-demo
